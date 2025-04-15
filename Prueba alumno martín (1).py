@@ -1,4 +1,5 @@
 
+#codigo de la prueba del lunes 7 abril
 print("bienvenido a calculo de tarifa telefonica CFT")
 min_dia = int(input("Porfavor ingrese cantidad de min hablados en horario dia:"))
 min_noche = int(input("Porfavor ingrese cantidad de min hablado en horario noche"))
