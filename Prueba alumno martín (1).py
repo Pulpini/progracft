@@ -19,3 +19,4 @@ print(("Su monto a pagar es de: $"),calculo_total)
 print(("En caso de estar sobrepasado debera pagar: $"),calculo_total_sobrepasado)
 #debe calcular el total y el total excedido
 print("gracias por usar nuestro servicio")
+#NO LO MUESTRA !!!!!!!
