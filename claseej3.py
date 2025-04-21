@@ -5,3 +5,12 @@ if edad >= 18:
     print("es mayor de edad")
 else:
     print("es menor de edad")
+    
+while edad <= 18:
+    cont= 0
+    sum = 0
+    mult = 0
+    cont = cont + 1
+    print("edad", cont+1)
+    print(f"hay {cont} mayor de edad")
+    
