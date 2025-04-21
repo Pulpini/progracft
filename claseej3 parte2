@@ -1,0 +1,15 @@
+# Ejercicio 3: Crear un programa que pida la edad de una persona y diga si es mayor o menor de edad. 
+personas = int(input("ingrese la cantidad de personas: "))  
+cont= 0
+mayores = 0
+menores = 0
+while cont < personas:
+    edad = int(input(f"ingrese la edad de la persona {cont+1}: "))
+    if cont >= 18:
+        print("es mayor de edad")
+        mayores+= 1
+    else:
+        print("es menor de edad")
+cont += 1
+
+print(f"hay {mayores} mayores de edad y {menores} menores de edad")
